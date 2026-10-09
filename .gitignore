@@ -1,0 +1,5 @@
+*.ji
+*.so
+*.o
+.DS_Store
+Manifest.toml
